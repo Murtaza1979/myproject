@@ -1,4 +1,4 @@
 # myproject
 My first Repository
 <br>
-Author- Abdul Waheed Murtaza
+Author- Abdul Waheed Murtaza Mughal
